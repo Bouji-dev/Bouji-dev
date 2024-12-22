@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bouji-dev
 - 👀 I’m interested in to be a data scientist
 - 🌱 I’m currently learning python and machin learning
-- 💞️ I’m looking to collaborate on big project with big companies
-- 📫 Reach me by email: info.sokna@gmail.com or telegram: @Pishulii
+- 💞️ I’m looking to collaborate on big projects with big companies
+- 📫 Reach me by Email: info.sokna@gmail.com or Telegram: @Pishulii
 - ⚡ Fun fact: **" Back of the sun is toward us . Do you know ?!"** 
 
 <!---
