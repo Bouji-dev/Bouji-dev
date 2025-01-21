@@ -8,7 +8,7 @@
 Technologies That I Know :
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,vscode,numpy,github,linkedin,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,anaconda,pycharm,ubuntu,vscode,github,linkedin,cpp)](https://skillicons.dev)
 <!---
 Bouji-dev/Bouji-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
