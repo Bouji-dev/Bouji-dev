@@ -5,7 +5,7 @@
 - 📫 Reach me by Email: info.sokna@gmail.com or Telegram: @Pishulii
 - ⚡ Fun fact: **" Back of the sun is toward us . Do you know ?!"**
 
-Technologies That I Know :
+***Technologies That I Know :***
 
 
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,pycharm,ubuntu,vscode,github,linkedin,cpp)](https://skillicons.dev)
