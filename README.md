@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and machin learning
 - 💞️ I’m looking to collaborate on big projects with big companies
 - 📫 Reach me by Email: info.sokna@gmail.com or Telegram: @Pishulii
-- ⚡ Fun fact: **" Back of the sun is toward us . Do you know ?!"**
+
 
 ***Technologies That I Know :***
 
