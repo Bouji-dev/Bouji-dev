@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bouji-dev
 - 👀 I’m interested in to be a data scientist
-- 🌱 I’m currently learning python and machin learning
+- 🌱 I’m currently learning c++, python and machin learning
 - 💞️ I’m looking to collaborate on big projects with big companies
 - 📫 Reach me by Email: info.sokna@gmail.com or Telegram: @Pishulii
 
